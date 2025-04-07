@@ -1,0 +1,26 @@
+
+color palette & references:
+- coolors: https://coolors.co/generate
+- pinterest
+
+sprit editor:
+- piskel: https://www.piskelapp.com/p/create/sprite
+- libresprite: https://libresprite.github.io/#!/
+
+2D draw:
+- gimp: https://www.gimp.org/downloads/
+- krita: https://krita.org/fr/
+- procreate (payant sur tablette)
+
+3D draw:
+- womp3D: https://beta.womp.com/discover
+- blender: https://www.blender.org/
+
+moodboard:
+- mural: https://www.mural.co/
+
+exemples:
+- ex 1: https://fr.pinterest.com/mag6492/idea-type-1/
+- ex 2: https://fr.pinterest.com/mag6492/idea-type-2/
+- ex 3: https://fr.pinterest.com/mag6492/idea-type-3/
+- mural: https://app.mural.co/t/trahicio2662/m/trahicio2662/1743711299031/3b3aa32240fb0a1f3b2860888e77ad5476de4308?sender=u79029238e80919e5de470142
